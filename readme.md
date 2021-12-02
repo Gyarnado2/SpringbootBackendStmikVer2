@@ -5,3 +5,5 @@ tetapi pada script yang ini adalah contoh gambaran normalisasi yang ingin ditera
 fk key.
 
 script yang diperlukan untuk springboot ada hanyalah bentuk database di mysql terlebih dahulu.
+
+//catatan mengenai file springboot dan script mysql
